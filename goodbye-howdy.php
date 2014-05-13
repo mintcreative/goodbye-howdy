@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Goodbye, Howdy
-Plugin URI: 
+Plugin URI: http://mintcreative.github.io/goodbye-howdy/
 Description: Change the Howdy message in the WordPress admin toolbar to anything you like. Use the Goodbye Howdy Settings to change your message.
 Author: Jim Richards
 Author URI: http://mintcreative.github.io
